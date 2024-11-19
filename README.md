@@ -4,6 +4,6 @@ I was trying to get the top bar to spread across the full page, and I know how t
 Regardless, with this update, I added a link back to the home/index page, all you have to do is click on the Image of Brain, and he'll take you back. I also added a little bit to the community tab,
 as well as cleaned some stuff up.
 
-Also! Please look at the updated variant, as that is the one that is most recent!
+Also! Please look at the final variant, as that is the one that is most recent!
 
  Thanks for your patience, best regards, Avery.
